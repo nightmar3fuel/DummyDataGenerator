@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DUMMYNAMEEXCEL generator", "DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator.csproj", "{070737E1-DC02-4A87-A5F1-C31276586082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070737E1-DC02-4A87-A5F1-C31276586082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070737E1-DC02-4A87-A5F1-C31276586082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070737E1-DC02-4A87-A5F1-C31276586082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070737E1-DC02-4A87-A5F1-C31276586082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6DE0F93-B8C2-4A68-9CE1-1AF69FEF8589}
+	EndGlobalSection
+EndGlobal

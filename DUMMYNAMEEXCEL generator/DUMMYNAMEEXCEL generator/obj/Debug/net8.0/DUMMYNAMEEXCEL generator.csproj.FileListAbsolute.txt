@@ -1,0 +1,24 @@
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\DUMMYNAMEEXCEL generator.exe
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\DUMMYNAMEEXCEL generator.deps.json
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\DUMMYNAMEEXCEL generator.runtimeconfig.json
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\DUMMYNAMEEXCEL generator.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\DUMMYNAMEEXCEL generator.pdb
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\RBush.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\DUMMYNAMEEXCEL generator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\DUMMYNAMEEXCEL generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\DUMMYNAMEEXCEL generator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\DUMMYNAMEEXCEL generator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\DUMMYNAMEEXCEL generator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\DUMMYNAM.CE67F177.Up2Date
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\DUMMYNAMEEXCEL generator.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\refint\DUMMYNAMEEXCEL generator.dll
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\DUMMYNAMEEXCEL generator.pdb
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\DUMMYNAMEEXCEL generator.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DUMMYNAMEEXCEL generator\DUMMYNAMEEXCEL generator\obj\Debug\net8.0\ref\DUMMYNAMEEXCEL generator.dll
